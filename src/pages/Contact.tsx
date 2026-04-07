@@ -28,9 +28,9 @@ const Contact = () => {
 
           <div className="grid gap-8 md:grid-cols-3">
             {[
-              { icon: MessageCircle, title: "Live Chat", text: "Instant support via our in-app live chat. Available 24/7.", link: "https://ganga10.com", linkText: "Start Chat" },
+              { icon: MessageCircle, title: "Live Chat", text: "Instant support via our in-app live chat. Available 24/7.", link: "https://www.ganga10.com/#/pages/login/register?invitationCode=3733139807", linkText: "Start Chat" },
               { icon: Mail, title: "Email Support", text: "Send us an email and we'll respond within 2 hours.", link: "mailto:support@ganga10.com", linkText: "Send Email" },
-              { icon: Clock, title: "24/7 Available", text: "Our team is always online to assist you, any time of day.", link: "https://ganga10.com", linkText: "Get Help" },
+              { icon: Clock, title: "24/7 Available", text: "Our team is always online to assist you, any time of day.", link: "https://www.ganga10.com/#/pages/login/register?invitationCode=3733139807", linkText: "Get Help" },
             ].map((c) => (
               <div key={c.title} className="card-shine rounded-xl p-8 text-center">
                 <c.icon className="mx-auto mb-4 h-10 w-10 text-primary" />
