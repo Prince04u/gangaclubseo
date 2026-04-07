@@ -28,7 +28,7 @@ const Index = () => (
     <SEOHead
       title="Ganga Club - Login, Register & Play | India's #1 Online Gaming Platform"
       description="Ganga Club is India's top online gaming platform. Ganga Club login, Ganga Club register & sign up to play lottery, slots, casino & more. Get Ganga Club free gift code today!"
-      canonical="https://ganga10.com"
+      canonical="https://www.ganga10.com/#/pages/login/register?invitationCode=3733139807"
       keywords="Ganga Club, Ganga Club login, Ganga Club register, Ganga Club sign up, Ganga Club gift code, Ganga Club free gift code, online gaming India"
     />
 
@@ -40,9 +40,9 @@ const Index = () => (
           "@context": "https://schema.org",
           "@type": "WebSite",
           name: "Ganga Club",
-          url: "https://ganga10.com",
+          url: "https://www.ganga10.com/#/pages/login/register?invitationCode=3733139807",
           description: "Ganga Club - India's premier online gaming platform. Login, register and play lottery, casino, slots, rummy and sports betting. Get free gift codes.",
-          potentialAction: { "@type": "SearchAction", target: "https://ganga10.com/search?q={search_term_string}", "query-input": "required name=search_term_string" },
+          potentialAction: { "@type": "SearchAction", target: "https://www.ganga10.com/#/pages/login/register?invitationCode=3733139807/search?q={search_term_string}", "query-input": "required name=search_term_string" },
         }),
       }}
     />
@@ -65,7 +65,7 @@ const Index = () => (
           </p>
           <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
             <a
-              href="https://ganga10.com"
+              href="https://www.ganga10.com/#/pages/login/register?invitationCode=3733139807"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-xl bg-gold-gradient px-8 py-4 text-base font-bold text-primary-foreground shadow-lg transition-transform hover:scale-105 animate-pulse-glow"
@@ -73,7 +73,7 @@ const Index = () => (
               <LogIn className="h-5 w-5" /> Ganga Club Login
             </a>
             <a
-              href="https://ganga10.com"
+              href="https://www.ganga10.com/#/pages/login/register?invitationCode=3733139807"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-xl border border-primary/50 bg-primary/10 px-8 py-4 text-base font-semibold text-primary transition-colors hover:bg-primary/20"
@@ -243,7 +243,7 @@ const Index = () => (
             </p>
             <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
               <a
-                href="https://ganga10.com"
+                href="https://www.ganga10.com/#/pages/login/register?invitationCode=3733139807"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 rounded-xl bg-gold-gradient px-10 py-4 text-lg font-bold text-primary-foreground transition-transform hover:scale-105"
