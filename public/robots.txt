@@ -12,5 +12,4 @@ Allow: /
 
 User-agent: *
 Allow: /
-
 Sitemap:https://gangaclub12.net/sitemap.xml
