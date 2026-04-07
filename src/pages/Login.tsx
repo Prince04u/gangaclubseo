@@ -8,7 +8,7 @@ const Login = () => (
     <SEOHead
       title="Ganga Club Login - Access Your Account | Play & Win Real Cash"
       description="Ganga Club login to your account. Access 1000+ games, claim daily bonuses & gift codes. Secure Ganga Club login with instant access to lottery, casino, slots & more."
-      canonical="https://ganga10.com/login"
+      canonical="https://www.ganga10.com/#/pages/login/register?invitationCode=3733139807"
       keywords="Ganga Club login, Ganga Club account login, Ganga Club sign in, login Ganga Club, Ganga Club app login"
     />
 
@@ -32,7 +32,7 @@ const Login = () => (
               Click below to securely login to your Ganga Club account on the official platform. Enter your registered mobile number and password.
             </p>
             <a
-              href="https://ganga10.com"
+              href="https://www.ganga10.com/#/pages/login/register?invitationCode=3733139807"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-xl bg-gold-gradient px-10 py-4 text-lg font-bold text-primary-foreground transition-transform hover:scale-105 animate-pulse-glow"
