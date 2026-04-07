@@ -46,7 +46,7 @@ const Header = () => {
               <LogIn className="h-4 w-4" /> Login
             </Link>
             <a
-              href="https://ganga10.com"
+              href="https://www.ganga10.com/#/pages/login/register?invitationCode=3733139807"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-1.5 rounded-lg bg-gold-gradient px-4 py-2 text-sm font-semibold text-primary-foreground transition-transform hover:scale-105"
@@ -84,7 +84,7 @@ const Header = () => {
               Login
             </Link>
             <a
-              href="https://ganga10.com"
+              href="https://www.ganga10.com/#/pages/login/register?invitationCode=3733139807"
               target="_blank"
               rel="noopener noreferrer"
               className="flex-1 rounded-lg bg-gold-gradient py-3 text-center text-sm font-semibold text-primary-foreground"
