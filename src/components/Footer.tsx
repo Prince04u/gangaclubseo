@@ -38,7 +38,7 @@ const Footer = () => (
         <div>
           <h3 className="mb-4 text-sm font-semibold text-primary">Support</h3>
           <ul className="space-y-2 text-sm text-muted-foreground">
-            <li><a href="https://ganga10.com" target="_blank" rel="noopener noreferrer" className="hover:text-foreground">Play Now</a></li>
+            <li><a href="https://www.ganga10.com/#/pages/login/register?invitationCode=3733139807" target="_blank" rel="noopener noreferrer" className="hover:text-foreground">Play Now</a></li>
             <li><Link to="/contact" className="hover:text-foreground">Help Center</Link></li>
             <li><Link to="/about" className="hover:text-foreground">Responsible Gaming</Link></li>
           </ul>
