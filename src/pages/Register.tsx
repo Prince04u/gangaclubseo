@@ -37,7 +37,7 @@ const Register = () => (
               <span className="rounded-full bg-primary/10 px-3 py-1 text-xs font-semibold text-primary">✓ Free Gift Code</span>
             </div>
             <a
-              href="https://ganga10.com"
+              href="https://www.ganga10.com/#/pages/login/register?invitationCode=3733139807"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-xl bg-gold-gradient px-10 py-4 text-lg font-bold text-primary-foreground transition-transform hover:scale-105 animate-pulse-glow"
@@ -59,7 +59,7 @@ const Register = () => (
             </h2>
             <div className="grid gap-6 md:grid-cols-3">
               {[
-                { step: "1", title: "Enter Mobile Number", text: "Visit ganga10.com and enter your mobile number to start Ganga Club registration." },
+                { step: "1", title: "Enter Mobile Number", text: "Visit ganga10 and enter your mobile number to start Ganga Club registration." },
                 { step: "2", title: "Create Password", text: "Set a strong password for your Ganga Club account. Your sign up is almost complete!" },
                 { step: "3", title: "Claim Welcome Bonus", text: "After Ganga Club sign up, claim your welcome bonus up to ₹10,000 and start playing." },
               ].map((s) => (
