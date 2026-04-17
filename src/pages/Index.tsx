@@ -230,37 +230,31 @@ const Index = () => (
     </section>
 
     {/* CTA */}
-    <section className="py-16 md:py-24">
-      <div className="container">
-        <div className="relative overflow-hidden rounded-2xl card-shine p-10 text-center md:p-16 glow-gold">
-          <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,hsl(43,96%,56%,0.06),transparent_70%)]" />
-          <div className="relative">
-            <h2 className="mb-4 text-3xl font-bold md:text-4xl">
-              Join <span className="text-gradient-gold">Ganga Club</span> Today
-            </h2>
-            <p className="mx-auto mb-8 max-w-lg text-muted-foreground">
-              Register on Ganga Club now and claim your welcome bonus. Login daily for free gift codes and exclusive rewards!
-            </p>
-            <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
-              <a
-                href="https://www.ganga10.com/#/pages/login/register?invitationCode=3733139807"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 rounded-xl bg-gold-gradient px-10 py-4 text-lg font-bold text-primary-foreground transition-transform hover:scale-105"
-              >
-                Ganga Club Sign Up <ChevronRight className="h-5 w-5" />
-              </a>
-              <Link
-                to="/gift-code"
-                className="inline-flex items-center gap-2 rounded-xl border border-primary/50 px-8 py-4 font-semibold text-primary transition-colors hover:bg-primary/10"
-              >
-                <Gift className="h-5 w-5" /> Free Gift Code
-              </Link>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    <section className="py-10 px-4">
+  <div className="mx-auto max-w-4xl text-center">
+    
+    <h2 className="text-2xl font-bold mb-4">
+      Explore Gaming Platforms Like Ganga Club
+    </h2>
+
+    <p className="text-muted-foreground leading-relaxed mb-4">
+      If you are enjoying 
+      <a href="https://gangaclub12.net/" target="_blank" className="text-primary underline"> Ganga game</a>, 
+      you can also explore other popular platforms like 
+      <a href="https://13lgames.live/" target="_blank" className="text-primary underline"> 13L Game</a> 
+      and 
+      <a href="https://gangaclub12.in/" target="_blank" className="text-primary underline"> Ganga Club </a>. 
+      These platforms offer exciting online games, bonuses, and secure gameplay similar to Ganga Club.
+    </p>
+
+    <div className="mt-4">
+      <a href="https://gangaclub12.net/" target="_blank" className="underline mx-2">Ganga game</a> |
+      <a href="https://13lgames.live/" target="_blank" className="underline mx-2">13L Game</a> |
+      <a href="https://gangaclub12.in/" target="_blank" className="underline mx-2">Ganga club</a>
+    </div>
+
+  </div>
+</section>
   </Layout>
 );
 
